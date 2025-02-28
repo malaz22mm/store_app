@@ -8,5 +8,4 @@ This project is an electronic Store which show products from API and you can upd
 
 Always mobile Store app is the Best
 
-
-    ![large.png](..%2F..%2FDownloads%2Flarge.png)
+![large.png](android%2Fapp%2Fsrc%2Fmain%2Fres%2Fmipmap-hdpi%2Flarge.png)
