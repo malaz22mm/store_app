@@ -6,4 +6,7 @@ A new Flutter project.
 
 This project is an electronic Store which show products from API and you can update the products information .
 
-Always mobile Store app is the Best  
+Always mobile Store app is the Best
+
+
+                                    ![Alt text](android/app/src/main/res/mipmap-xxxhdpi/large.png)
